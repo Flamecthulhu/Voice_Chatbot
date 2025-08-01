@@ -1,6 +1,4 @@
 # Voice Chatbot
-Here's a `README.md` file for the provided Python script, formatted to be clear and helpful.
-
 -----
 
 # Voice Assistant
