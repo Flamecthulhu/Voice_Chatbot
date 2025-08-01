@@ -7,4 +7,4 @@ set /p UserUpdate=Enter your update message:
 git config --global --list
 git add .
 git commit -m  "[%current_date% %current_time%]: %UserUpdate%"
-git push origin main
+git push origin master
