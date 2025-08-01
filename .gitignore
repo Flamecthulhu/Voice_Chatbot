@@ -1,2 +1,5 @@
 a.cmd
 .vscode
+record_output.wav
+winGUI.c
+winGUI.exe
