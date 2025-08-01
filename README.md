@@ -1,9 +1,6 @@
 # Voice Chatbot
------
 
-# Voice Assistant
-
-This project is a simple voice assistant built using several powerful Python libraries and models for speech-to-text, large language model-based responses, and text-to-speech. The assistant wakes up when it hears a specific keyword, transcribes your speech, generates a text response, and then speaks the response back to you.
+This project is a simple voice chatbot built using several powerful Python libraries and models for speech-to-text, large language model-based responses, and text-to-speech. The assistant wakes up when it hears a specific keyword, transcribes your speech, generates a text response, and then speaks the response back to you.
 
 ## Features
 
