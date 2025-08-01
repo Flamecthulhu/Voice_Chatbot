@@ -7,7 +7,7 @@ import time
 
 logging.set_verbosity_error()
 
-location = "H:\\Codes\\Cortana\\Basic\\Whisper\\output.wav" #file name
+location = "Basic\Whisper\output.wav" #file name
 
 synthesiser = pipeline("text-to-speech", "microsoft/speecht5_tts")
 

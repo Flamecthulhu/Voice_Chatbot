@@ -1,7 +1,7 @@
 import whisper
 import time
 
-location = r"H:\Codes\Cortana\Basic\Whisper\output.wav"
+location = r"Basic\\Whisper\\output.wav"
 start_time = time.time()
 whisper_model_list = ["tiny", "base", "small", "medium", "turbo", "large"]
 model = whisper.load_model("medium")
