@@ -54,7 +54,7 @@ generation_config = GenerationConfig(
 )
 llm_model.eval()
 
-access_key = "aPeEK2Idipevi3QiZ0Lb+VMxNNzkfPYGjePmOqlXyT2MH3tPsLaKZg=="
+access_key = ""
 
 record_sample_rate = 16000
 
